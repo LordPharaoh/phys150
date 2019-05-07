@@ -1,0 +1,54 @@
+﻿
+Unigraphics NX V12.0 / 2D Exchange
+
+Reading part: C:\Users\student\Downloads\sheet_metal_model1_2d.prt
+
+
+Writing part: C:\Users\student\AppData\Local\Temp\stud2AC011223xhk.prt
+
+Elapsed time   :    0 minutes,  0 seconds
+Actual CPU Time:    0 minutes,  0 seconds
+
+INFO-
+INFO-		Unigraphics Version NX V12.0 to AutoCAD 2013
+INFO-		
+INFO-
+INFO-		Running UGTODXF Translator .....
+INFO-
+INFO-		Start of Translation: Mon May  6 18:54:51 2019
+INFO-
+STATUS-		Converting C:\Users\student\AppData\Local\Temp\stud2AC011223xhk.prt
+STATUS-
+SUMMARY-
+SUMMARY-	Summary of Unigraphics Input Entities
+SUMMARY-	For Unigraphics File: C:\Users\student\AppData\Local\Temp\stud2AC011223xhk.prt
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Line .....................................:	253
+SUMMARY-	Point ....................................:	1
+SUMMARY-	Conic ....................................:	16
+SUMMARY-	Spline ...................................:	43
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	313
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+STATUS-
+INFO-
+INFO-		Writing File: C:\Users\student\Downloads\sheet_metal_model1_2d.dxf
+SUMMARY-	Summary of AutoCAD Output Entities
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Spline ...................................:	43
+SUMMARY-	Point ....................................:	1
+SUMMARY-	Line .....................................:	253
+SUMMARY-	Ellipse ..................................:	16
+SUMMARY-	Layout ...................................:	6
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	319
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+INFO-
+INFO-		End of Translation: Mon May  6 18:54:51 2019
+INFO-		Translation CPU time: 0 m, 0 sINFO-
